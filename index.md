@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 一个理工男的中医学习笔记
 
 You can use the [editor on GitHub](https://github.com/nudtecho/nudtecho.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
